@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+    <persistence-unit name="JavaAggregator">
+        <class>olegshan.agg.jba.entity.User</class>
+        <class>olegshan.agg.jba.entity.Role</class>
+        <class>olegshan.agg.jba.entity.Blog</class>
+        <class>olegshan.agg.jba.entity.Item</class>
+    </persistence-unit>
+</persistence>
